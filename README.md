@@ -15,17 +15,15 @@
 
 **_Technology used_**
 
-*This app uses JavaScript, Node.js, Mysql and 5 NPM packages: Express, Express-handlebars, express-validato, Body-parser, dotenv and Nodemon*
+*This app uses React (also known as React.js or ReactJS), Components, Functional components, Class-based components, Virtual DOM, and JSX*
 
- Files Used   |  Role in the App                                                                  |
-| ------------ | -------------------------------------------------------------------------------------- |
-| React | Native uses UI elements written in React.js that can generate native iOS and Android interface components, such as buttons and animations. |
-| express | used to handle routing |
 
 
 **Character Component** *`Character.js` The onClick function is a callback to check if the image has been clicked or not* 
 
-**Container Component:** *`Container.js` *
+**Container Component:** *`Container.js` *main container for each Character component*
+
+**Container Component:** *`ClickyGame.js` *stores the class value to assign to navMessage based on a good or bad click; used to shuffle the array of images when the DOM loads, and when an image is clicked, and tracks scores*
 
  
 
