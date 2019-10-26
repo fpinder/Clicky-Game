@@ -7,6 +7,9 @@ import briard from "./images/briard.jpg";
 import chihuahua from "./images/chihuahua.jpg";
 import shiba from "./images/shiba.jpg";
 import waterdog from "./images/waterdog.jpg";
+import mastiff from "./images/mastiff.jpg";
+import germanshepherd from "./images/germanshepherd.jpg";
+import ridgeback from "./images/ridgeback.jpg";
 
 const images = [
   akita,
@@ -17,7 +20,10 @@ const images = [
   briard,
   chihuahua,
   shiba,
-  waterdog
+  waterdog,
+  mastiff,
+  germanshepherd,
+  ridgeback
 ];
 
 export default images;
