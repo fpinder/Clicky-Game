@@ -13,6 +13,9 @@
 <a href="#"><img src="https://github.com/fpinder/Clicky-Game/blob/master/src/images/backgroundRead.jpg" alt="Home Page"></a>
 
 
+*[Dog Images](https://pupster.netlify.com/) are from the  Pupster Website* 
+
+
 **_Technology used_**
 
 *This app uses React (also known as React.js or ReactJS), Components, Functional components, Class-based components, Virtual DOM, and JSX*
@@ -26,7 +29,6 @@
 **Navbar Component** *`Navbar.js` *Display the score  and  high score*
 
 **Container Component:** *`ClickyGame.js` *stores the class value to assign to navMessage based on a good or bad click; used to shuffle the array of images when the DOM loads, and when an image is clicked, and tracks scores*
-
  
 
 
