@@ -23,6 +23,8 @@
 
 **Container Component:** *`Container.js` *main container for each Character component*
 
+**Navbar Component** *`Navbar.js` *Display the score  and  high score*
+
 **Container Component:** *`ClickyGame.js` *stores the class value to assign to navMessage based on a good or bad click; used to shuffle the array of images when the DOM loads, and when an image is clicked, and tracks scores*
 
  
