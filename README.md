@@ -4,7 +4,7 @@
 
 **Object**
 
-*The Application [Clicky-Game](https://powerful-everglades-22681.herokuapp.com/) hosted on Heroku is created has a react application. The application render different images to the screen. Each image listens for click events. The application keep track of the user's score. The user's score is incremented when clicking on an image for the first time. The user's score is reset to 0 if they click the same image more than once. Every time an image is clicked, the images rendered to the page shuffle themselves in a random order. Once the user's score is reset after an incorrect guess, the game restarts.*
+*The Application [Clicky-Game](https://powerful-everglades-22681.herokuapp.com/) hosted on Heroku is created has a react application. The application render different images to the screen. Each image listens for click events. The application keep track of the user's score. The user's score is incremented when clicking on an image for the first time. The user's score is reset to 0 if they user click the same image more than once. Every time an image is clicked, the images shuffle and render in a random order. Once the user's score is reset after an incorrect guess, the game restarts.*
 
 
 
