@@ -13,7 +13,7 @@ class ClickyGame extends Component {
     // stores the class value to assign to navMessage based on a good or bad click
     navMsgColor: '',
 
-    // contains intro, success, and failure message
+    /* contains intro, success, and failure message */
     navMessage: 'Click an image to begin!',
 
     // contains an array of image urls
